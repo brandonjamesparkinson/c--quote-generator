@@ -1,0 +1,10 @@
+C:\Users\brand\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\bin\Debug\RandomQuoteGenerator.exe.config
+C:\Users\brand\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\bin\Debug\RandomQuoteGenerator.exe
+C:\Users\brand\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\bin\Debug\RandomQuoteGenerator.pdb
+C:\Users\brand\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\obj\Debug\RandomQuoteGenerator.csprojAssemblyReference.cache
+C:\Users\brand\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\obj\Debug\RandomQuoteGenerator.Form1.resources
+C:\Users\brand\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\obj\Debug\RandomQuoteGenerator.Properties.Resources.resources
+C:\Users\brand\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\obj\Debug\RandomQuoteGenerator.csproj.GenerateResource.cache
+C:\Users\brand\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\obj\Debug\RandomQuoteGenerator.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\obj\Debug\RandomQuoteGenerator.exe
+C:\Users\brand\source\repos\RandomQuoteGenerator\RandomQuoteGenerator\obj\Debug\RandomQuoteGenerator.pdb
